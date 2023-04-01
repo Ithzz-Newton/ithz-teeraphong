@@ -1,4 +1,4 @@
-```
+
 def main():
     # input plate
     
@@ -14,4 +14,4 @@ def is_valid(s):
 
 main()
 
-```
+
